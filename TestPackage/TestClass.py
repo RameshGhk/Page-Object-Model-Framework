@@ -26,7 +26,7 @@ class Github_Login_Functionality_validation(unittest.TestCase):
     @pytest.mark.run(order=1)
     def test_Registration(self):
         self.driver.get(self.baseURL)
-        self.rp.UserRegistration("Rameshroppa", "ramesh.roppapvg@gmail.com", "Rameshghk@2017")
+        self.rp.UserRegistration("parameter1", "parameter2", "parameter3")
         result = self.rp.VerifyRegistration()
         assert result == True
         self.driver.quit()
@@ -43,7 +43,7 @@ class Github_Login_Functionality_validation(unittest.TestCase):
     @pytest.mark.run(order=4)
     def test_Login_with_valid_credentials(self):
         self.driver.get(self.baseURL)
-        self.lp.UserLogin("ramesh.roppapvg@gmail.com", "Rameshghk@2017")
+        self.lp.UserLogin("parameter1", "parameter2")
         time.sleep(5)
         result=self.lp.VerifyLogin()
         assert result==True
@@ -59,7 +59,7 @@ class Github_Login_Functionality_validation(unittest.TestCase):
     @pytest.mark.run(order=2)
     def test_Login_with_Invalid_UserName(self):
         self.driver.get(self.baseURL)
-        self.lp.UserLogin("ramesXXXXXX@gmail.com", "ValidPassword")
+        self.lp.UserLogin("parameter1", "parameter2")
         time.sleep(5)
         result=self.lp.VerifyLogin()
         assert result==True
@@ -75,7 +75,7 @@ class Github_Login_Functionality_validation(unittest.TestCase):
     @pytest.mark.run(order=3)
     def test_Login_with_Invalid_Password(self):
         self.driver.get(self.baseURL)
-        self.lp.UserLogin("ramesh.ghk2020@gmail.com", "XXXXXXX")
+        self.lp.UserLogin("parameter1", "parameter2")
         time.sleep(5)
         result=self.lp.VerifyLogin()
         assert result==True
