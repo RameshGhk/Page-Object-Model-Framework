@@ -1,0 +1,40 @@
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Element found with locator: user[login] and  locatorType: id
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Sent data on element with locator: user[login] locatorType: id
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Element found with locator: user[email] and  locatorType: id
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Sent data on element with locator: user[email] locatorType: id
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Element found with locator: user[password] and  locatorType: id
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Sent data on element with locator: user[password] locatorType: id
+10/11/2017 02:08:49 PM - SeleniumDriver - INFO: Element found with locator: //button[@type='submit'] and  locatorType: xpath
+10/11/2017 02:08:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@type='submit'] locatorType: xpath
+10/11/2017 02:08:54 PM - SeleniumDriver - INFO: Element not found with locator: //p[@class='shelf-lead'] and  locatorType: xpath
+10/11/2017 02:08:54 PM - SeleniumDriver - INFO: Element not present with locator: //p[@class='shelf-lead'] locatorType: xpath
+10/11/2017 02:08:54 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+10/11/2017 02:08:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/login'] locatorType: xpath
+10/11/2017 02:08:55 PM - SeleniumDriver - INFO: Element found with locator: login_field and  locatorType: id
+10/11/2017 02:08:55 PM - SeleniumDriver - INFO: Sent data on element with locator: login_field locatorType: id
+10/11/2017 02:08:55 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+10/11/2017 02:08:55 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+10/11/2017 02:08:55 PM - SeleniumDriver - INFO: Element found with locator: commit and  locatorType: name
+10/11/2017 02:08:56 PM - SeleniumDriver - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2017 02:09:04 PM - SeleniumDriver - INFO: Element not found with locator: //p[@class='shelf-lead'] and  locatorType: xpath
+10/11/2017 02:09:04 PM - SeleniumDriver - INFO: Element not present with locator: //p[@class='shelf-lead'] locatorType: xpath
+10/11/2017 02:09:04 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+10/11/2017 02:09:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/login'] locatorType: xpath
+10/11/2017 02:09:05 PM - SeleniumDriver - INFO: Element found with locator: login_field and  locatorType: id
+10/11/2017 02:09:05 PM - SeleniumDriver - INFO: Sent data on element with locator: login_field locatorType: id
+10/11/2017 02:09:05 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+10/11/2017 02:09:05 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+10/11/2017 02:09:05 PM - SeleniumDriver - INFO: Element found with locator: commit and  locatorType: name
+10/11/2017 02:09:06 PM - SeleniumDriver - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2017 02:09:14 PM - SeleniumDriver - INFO: Element not found with locator: //p[@class='shelf-lead'] and  locatorType: xpath
+10/11/2017 02:09:14 PM - SeleniumDriver - INFO: Element not present with locator: //p[@class='shelf-lead'] locatorType: xpath
+10/11/2017 02:09:14 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+10/11/2017 02:09:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/login'] locatorType: xpath
+10/11/2017 02:09:15 PM - SeleniumDriver - INFO: Element found with locator: login_field and  locatorType: id
+10/11/2017 02:09:15 PM - SeleniumDriver - INFO: Sent data on element with locator: login_field locatorType: id
+10/11/2017 02:09:15 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+10/11/2017 02:09:15 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+10/11/2017 02:09:15 PM - SeleniumDriver - INFO: Element found with locator: commit and  locatorType: name
+10/11/2017 02:09:16 PM - SeleniumDriver - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2017 02:09:21 PM - SeleniumDriver - INFO: Element found with locator: //p[@class='shelf-lead'] and  locatorType: xpath
+10/11/2017 02:09:21 PM - SeleniumDriver - INFO: Element present with locator: //p[@class='shelf-lead'] locatorType: xpath
