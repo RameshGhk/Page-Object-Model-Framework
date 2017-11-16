@@ -1,4 +1,4 @@
-# Relayr_Assignment-
+# Page Object model Test automation framework using Selenium with python-
 
 ********Instructions to execute the test automation.************************
 
@@ -20,7 +20,7 @@ pip install pytest-ordering
 pip install pytest-html
 
 2) How to run the test
-Down load the project and navigate to project folder ie Relayr_Assignment
+Down load the project and navigate to project folder ie Page-Object-Model-Framework
 Provide valid credentials in the TestClass.py in the place of 
 parameter1
 parameter2
