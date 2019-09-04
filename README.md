@@ -10,19 +10,19 @@
 Use below commands to install required plugins
 
 > If you are using python 3.x
- - pip3 install pytest
- - pip3 install pytest-ordering
- - pip3 install pytest-html
+ - `pip3 install pytest`
+ - `pip3 install pytest-ordering`
+ - `pip3 install pytest-html`
 
 > If you are using python 2.x
- - pip install pytest
- - pip install pytest-ordering
- - pip install pytest-html
+ - `pip install pytest`
+ - `pip install pytest-ordering`
+ - `pip install pytest-html`
 
 ## Step 2: How to run the test
 
- - Download the project and navigate to project folder ie Page-Object-Model-Framework
- - Provide valid credentials in the TestClass.py in the place of 
+ - Download the project and navigate to project folder i.e., Page-Object-Model-Framework
+ - Provide valid credentials in the `TestClass.py` in the place of 
    - parameter1
    - parameter2
    - parameter3
